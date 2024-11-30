@@ -4,7 +4,7 @@
 
 
 ```zsh
-github-change-name <old-name> <new-name>
+github-change-name <old-name> <new-name> <dir-name>
 ```
 ```zsh
 % git remote -v
